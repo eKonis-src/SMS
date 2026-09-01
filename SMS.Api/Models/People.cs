@@ -1,4 +1,4 @@
-namespace Ems.Api.Models;
+namespace SMS.Api.Models;
 
 public class People
 {

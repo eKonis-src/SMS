@@ -1,4 +1,4 @@
-using Ems.Api.Models;
+using SMS.Api.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace Ems.Api.Data;
